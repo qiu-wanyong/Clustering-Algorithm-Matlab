@@ -5,8 +5,8 @@
 
 Matlab代码列表：
 
-* k-均值（k-means）及Matlab实现
-* k-均值（k-means）及Matlab实现
+* k-均值（k-means）及Matlab静态实现
+* k-均值（k-means）及Matlab动态实现
 * k-中心点算法（k-medoids）及Matlab实现
 * DBSCAN-Matlab实现
 * Chameleon-Matlab实现
