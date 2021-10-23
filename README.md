@@ -7,11 +7,11 @@ Matlab代码列表：
 
 * k-均值（k-means）及Matlab静态实现
 * k-均值（k-means）及Matlab动态实现
-* k-中心点算法（k-medoids）及Matlab实现
-* DBSCAN-Matlab实现
-* Chameleon-Matlab实现
-* CURE-Matlab实现
-* ROCK-Matlab实现
+* k-中心点（k-medoids）及Matlab实现
+* DBSCAN算法-Matlab实现
+* Chameleon算法-Matlab实现
+* CURE算法-Matlab实现
+* ROCK算法-Matlab实现
 
 #### 划分的方法（基于距离的）
 
